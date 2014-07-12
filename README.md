@@ -48,3 +48,13 @@ References
 
 - https://speakerdeck.com/naoya/websabisukai-fa-falsebian-qian-toxian-zai
 
+
+
+## [Parse.com](https://parse.com/)
+
+facebook bought this 8.4B$.  This is just a BaaS(Backend as a Service) with the SDK of iOS/Android/JS. And also responds to REST API with ActionScript, Clojure, Corona, Java, Javascript, .NET, PHP, Python, Ruby, Unity.  This means, DataStore and Auth function to be a client-side instance. And nowadays discounted.
+
+
+## [Firebase](https://www.firebase.com/)
+
+1M -> 100M -> 500M fund raise was done. They has alliance of Backbone, Angular, React and so on.  And they've gotten 80000 user in June.
