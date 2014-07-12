@@ -52,3 +52,6 @@ References
 facebook buy it 8.4B$.  It's just a BaaS with the SDK of iOS/Android/JS. And also responds to REST API with ActionScript, Clojure, Corona, Java, Javascript, .NET, PHP, Python, Ruby, Unity.  Nowadays discounted.
 
 
+## [Firebase](https://www.firebase.com/)
+
+1M -> 100M -> 500M fund raise was done. They has alliance of Backbone, Angular, React and so on.  And they've gotten 80000 user in June.
