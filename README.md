@@ -1,5 +1,7 @@
-[WIP] list-dev_env (Goodparts)
+[WIP] list-dev_flow
 ============
+
+### Dev Flow Good Parts
 
 I will list modern development styles and tools.
 
@@ -13,7 +15,7 @@ Slack
 
 - **send GitHub push, issue, comments, pull-requests to #general(or #dev)**
   1. Profit: task visualization
-     ![](https://dl.dropboxusercontent.com/u/7817937/_github/list-dev_flow/slack-github.png)
+  2. ![](https://dl.dropboxusercontent.com/u/7817937/_github/list-dev_flow/slack-github.png)
 
 tmp(Drafts)
 ===
