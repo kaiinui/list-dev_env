@@ -35,6 +35,7 @@ Profit: task visualization
 - Parse.com
 - Firebase
 - Bugsnug
+- Mandrill
 
 References
 ---
