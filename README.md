@@ -11,11 +11,11 @@ Slack
 
 1. use GitHub integration
 
-send GitHub push, issue, comments, pull-requests to #general(or #dev)
+- **send GitHub push, issue, comments, pull-requests to #general(or #dev)**
+  1. Profit: task visualization
 
-Profit: task visualization
-
-####tmp
+tmp(Drafts)
+===
 
 - Slack
 - Qiita team
