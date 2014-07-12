@@ -45,3 +45,9 @@ References
 
 - https://speakerdeck.com/naoya/websabisukai-fa-falsebian-qian-toxian-zai
 
+
+
+Parse.com
+
+facebook buy it 8.4B$.  It's just a BaaS with the SDK of iOS/Android/JS. And also responds to REST API with ActionScript, Clojure, Corona, Java, Javascript, .NET, PHP, Python, Ruby, Unity.  Nowadays discounted.
+
