@@ -30,10 +30,11 @@ tmp(Drafts)
 - NewRelic
 - Wercker
 - Google BigQuery
-- fluentd
 - Google App Engine
-- GCP(HTTP Load balancing, instances, DataStore)
-- AWS(SQS, DynamoDB, S3, SNS)
+- GCP(HTTP Load balancing, instances, DataStore) -> should write more about GCP.
+- AWS(SQS, DynamoDB, S3, SNS, Route53)
+- Docker
+- fluentd
 - CloudFlare
 - Parse.com
 - Firebase
@@ -42,6 +43,7 @@ tmp(Drafts)
 - Ghostlab
 - gulp, grunt
 - sqwiggle (for remote working)
+- Serf, Consul? (these community are not enough yet?)
 
 References
 ---
