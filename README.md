@@ -49,6 +49,7 @@ tmp(Drafts)
 - HelpShift
 - ngrok
 - Amazon Cognito?
+- MongoHQ (scalable & full managed MongoDB cluster)
 
 References
 ---
