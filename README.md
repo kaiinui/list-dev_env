@@ -34,6 +34,7 @@ Profit: task visualization
 - CloudFlare
 - Parse.com
 - Firebase
+- Bugsnug
 
 References
 ---
