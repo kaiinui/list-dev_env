@@ -44,6 +44,10 @@ tmp(Drafts)
 - gulp, grunt
 - sqwiggle (for remote working)
 - Serf, Consul? (these community are not enough yet?)
+- Crashlytics
+- Crashlytics Beta
+- HelpShift
+- ngrok
 
 References
 ---
