@@ -51,6 +51,14 @@ tmp(Drafts)
 - Amazon Cognito?
 - MongoHQ (scalable & full managed MongoDB cluster)
 
+ngrok
+---
+
+1. expose local application to your team using ngrok.
+  - just `ngrok 3000` to expose `localhost:3000` to `http://someurl.ngrok.com/`
+  - Omit needless deploy for checking on Mobile or trying API.
+  - ![](https://dl.dropboxusercontent.com/u/7817937/_github/list-dev_flow/ngrok.png)
+
 References
 ---
 
