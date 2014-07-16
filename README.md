@@ -54,6 +54,7 @@ tmp(Drafts)
 - Mackerel
 - NewRelic
 - Bugsnug
+- CloudWatch
 
 ### BaaS 
 
