@@ -16,12 +16,17 @@ Slack
 - **send GitHub push, issue, comments, pull-requests to #general(or #dev)**
   1. Profit: task visualization
   2. ![](https://dl.dropboxusercontent.com/u/7817937/_github/list-dev_flow/slack-github.png)
+ 
+2. use Qiita:Team integration.
+ 
+- **send changes of Qiita:Team article to #general (so that all things are collected to Slack#general)**
+  1. ![](https://dl.dropboxusercontent.com/u/7817937/_github/list-dev_flow/slack-qiitateam.png)
 
 tmp(Drafts)
 ===
 
 - Slack
-- Qiita team
+- Qiita:Team
 - GitHub
 - CircleCI
 - BrowserStack
