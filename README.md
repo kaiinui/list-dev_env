@@ -25,36 +25,59 @@ Slack
 tmp(Drafts)
 ===
 
+###Communitation
+
 - Slack
 - Qiita:Team
-- GitHub
+- GitHub Issue
+- sqwiggle (for remote working)
+ 
+### CI / Test
+
 - CircleCI
+- Wercker
 - BrowserStack
 - AppThrawk
-- Mackerel
-- NewRelic
-- Wercker
-- Google BigQuery
-- Google App Engine
+
+### Infrastructure 
+
+- Docker
 - GCP(HTTP Load balancing, instances, DataStore) -> should write more about GCP.
 - AWS(SQS, DynamoDB, S3, SNS, Route53)
-- Docker
-- fluentd
+- Google BigQuery
 - CloudFlare
+- Mandrill
+
+### Monitoring
+
+- fluentd
+- Mackerel
+- NewRelic
+- Bugsnug
+
+### BaaS 
+
 - Parse.com
 - Firebase
-- Bugsnug
-- Mandrill
-- Ghostlab
-- gulp, grunt
-- sqwiggle (for remote working)
-- Serf, Consul? (these community are not enough yet?)
+- Google App Engine
+- MongoHQ (scalable & full managed MongoDB cluster)
+
+### Mobile App Libraries / Services
+
 - Crashlytics
 - Crashlytics Beta
 - HelpShift
+
+### Nice Tools
+
+- Ghostlab
 - ngrok
+
+###not ready
+
+- Serf, Consul? (these community are not enough yet?)
 - Amazon Cognito?
-- MongoHQ (scalable & full managed MongoDB cluster)
+ 
 
 ngrok
 ---
