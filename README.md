@@ -86,6 +86,10 @@ tmp(Drafts)
 
 - Serf, Consul? (these community are not enough yet?)
 - Amazon Cognito?
+ 
+###A/B test
+
+- Apptimize http://apptimize.com/
 
 
  
