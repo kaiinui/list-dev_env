@@ -79,6 +79,11 @@ tmp(Drafts)
 - Ghostlab
 - ngrok
 
+##### Code maintainance
+
+- rubycritic
+- rubocop
+
 ##### Documentation
 
 - (Swift / Objective-C)jazzy https://github.com/realm/jazzy
