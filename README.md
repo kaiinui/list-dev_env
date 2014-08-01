@@ -101,7 +101,9 @@ tmp(Drafts)
 
 - Apptimize http://apptimize.com/
 
+##### Waiting for investigation
 
+- Fluentd-UI https://rubygems.org/gems/fluentd-ui
  
 
 ngrok
